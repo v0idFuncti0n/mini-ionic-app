@@ -22,3 +22,20 @@
 .container a {
   text-decoration: none;
 }
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  margin: 0 auto;
+  gap: 20px;
+  align-items: center;
+}
+
+.login-inputs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+}
